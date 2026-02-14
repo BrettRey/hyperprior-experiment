@@ -1,8 +1,8 @@
 # Preregistration: Precision Boost for Recursive Competence
 
-**Date:** [YYYY-MM-DD]  
-**Repository:** https://github.com/[username]/[repo]  
-**Commit:** [Hash will go here after first commit]
+**Date:** 2026-02-14
+**Repository:** https://github.com/BrettRey/hyperprior-experiment
+**Commit:** 8548069
 
 ---
 
@@ -128,7 +128,7 @@ Any analyses NOT specified above will be clearly marked as "EXPLORATORY" in the 
 
 | Date | Commit | Change |
 |------|--------|--------|
-| YYYY-MM-DD | [hash] | Initial preregistration |
+| 2026-02-14 | 8548069 | Initial preregistration |
 
 ---
 
