@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.out
+.DS_Store
+__pycache__/
+*.pyc
